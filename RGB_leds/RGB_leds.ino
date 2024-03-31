@@ -24,6 +24,8 @@ void loop() {
   delay(1000);
   setColor(0, 255, 255); // aqua
   delay(1000);
+  setColor(192, 192, 192); // gray/white
+  delay(1000);
 }
 
 void setColor(int red, int green, int blue)
